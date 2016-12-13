@@ -1,0 +1,10 @@
+# 맨 앞에 #이 있는 행은 주석입니다.
+# 이용할 디렉티브의 #을 제거하세요.
+# 이용하지 않는 것은 #을 붙이세요.
+
+AuthType Basic
+AuthName "Member Only"
+AuthUserFile C:/xampp/htdocs/C09/S74-2/.htpasswd
+#AuthUserFile /Applications/XAMPP/xamppfiles/htdocs2/C09/S74-2/.htpasswd
+#AuthUserFile /opt/lampp/htdocs2/C09/S74-2/.htpasswd
+Require valid-user

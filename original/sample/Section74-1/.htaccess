@@ -1,0 +1,24 @@
+# 行頭に#がある行はコメントです。
+# 利用するディレクティブの#を外してください。
+# 利用しないものは#を付けてください。
+
+# この時点ではすべて拒否 
+Order Deny, Allow
+Deny from all
+
+# 特定のIPアドレスを許可
+#Order Deny,Allow
+#Deny from all
+#Allow from 許可したいIPアドレス
+
+# すべて拒否
+#Order Allow,Deny
+#Deny from all
+#Allow from 許可したいIPアドレス
+
+# 特定のIPアドレスだけ許可
+#Order Allow,Deny
+#Allow from all
+#Deny from IPアドレス1
+#Deny from IPアドレス2
+#Deny from IPアドレス3

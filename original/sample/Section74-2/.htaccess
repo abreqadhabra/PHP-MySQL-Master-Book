@@ -1,0 +1,10 @@
+# 行頭に#がある行はコメントです。
+# 利用するディレクティブの#を外してください。
+# 利用しないものは#を付けてください。
+
+AuthType Basic
+AuthName "Member Only"
+#AuthUserFile C:/xampp/htdocs2/.htpasswd
+AuthUserFile /Applications/XAMPP/xamppfiles/htdocs/.htpasswd
+#AuthUserFile /opt/lampp/htdocs2/.htpasswd
+Require valid-user
