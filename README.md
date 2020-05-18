@@ -1,6 +1,6 @@
 # README #
 
-<a href="http://abreqadhabra.com/wp-content/uploads/2016/02/cover.png"><img class="alignnone size-medium wp-image-1559" src="http://abreqadhabra.com/wp-content/uploads/2016/02/cover-213x300.png" alt="cover" width="213" height="300" /></a>
+<img class="alignnone size-medium wp-image-1559" src="https://t1.daumcdn.net/cfile/tistory/276FFC3F577317AD2D?download" alt="cover" width="213" height="300" />
 
 PHP+MySQL 웹 개발 마스터북(원서명: PHP+MySQLマスターブック)은 나가타 요리노부(永田順伸/ながたよりのぶ)가 저술하고, 2014년 1월 24일 주식회사 마이나비 출판에서 발행된 책으로, 남가람북스에서 번역하여 출간되었습니다.
 <ul>
